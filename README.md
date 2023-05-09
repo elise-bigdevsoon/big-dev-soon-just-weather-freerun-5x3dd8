@@ -1,4 +1,4 @@
-# Just Weather Project 123 456 789
+# Just Weather Project 123 456 789 2
 
 Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
